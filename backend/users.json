@@ -1,7 +1,1 @@
-{
-  "users": {
-    "user": {
-      "passwordHash": "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8"
-    }
-  }
-}
+{"users":{"user":{"passwordHash":"5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8"},"":{"passwordHash":"e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"},"gorge":{"passwordHash":"f0eaf257084ed2c1be87a4e4008ae91ea38cec866646e89d18234053aec9e02d"},"de_barber":{"passwordHash":"e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"},"yoyo":{"passwordHash":"ff71cf74abb3ccb005b8b64371725db15edc42c1ad33413bbe561b2da3c85ef9"}}}
